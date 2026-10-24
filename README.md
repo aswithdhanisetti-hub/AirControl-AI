@@ -156,16 +156,6 @@ python tests/test_gestures.py
 
 Run these scripts individually according to their implementation. A successful test of one component does not necessarily mean the complete application has been tested.
 
-## 📸 Screenshots and Demo
-
-Screenshots and a demonstration video can be added here to show the application running and recognizing gestures.
-
-**Suggested screenshots:**
-- Webcam preview with hand landmarks.
-- Open palm recognition.
-- Thumbs-up recognition.
-- Peace sign recognition.
-- YouTube playback controlled by a gesture.
 
 ## 🎯 Project Goals
 
